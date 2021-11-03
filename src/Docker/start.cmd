@@ -1,0 +1,1 @@
+docker-compose -p rent up -d

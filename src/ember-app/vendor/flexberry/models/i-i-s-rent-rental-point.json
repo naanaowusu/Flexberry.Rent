@@ -1,0 +1,25 @@
+﻿{
+  "name": "IISRentRentalPoint",
+  "modelName": "i-i-s-rent-rental-point",
+  "className": "RentalPoint",
+  "nameSpace": "IIS.Rent",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "address",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

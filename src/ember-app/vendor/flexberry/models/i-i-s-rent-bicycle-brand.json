@@ -1,0 +1,25 @@
+﻿{
+  "name": "IISRentBicycleBrand",
+  "modelName": "i-i-s-rent-bicycle-brand",
+  "className": "BicycleBrand",
+  "nameSpace": "IIS.Rent",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "name",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
